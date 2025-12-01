@@ -1,2 +1,1 @@
-Contenido modificado en master
-(exp1: crear archivo A)
+Uno
